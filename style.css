@@ -22,7 +22,7 @@
    text-transform: capitalize;
 }
 
-* > img{
+* img{
    user-select: none;
    pointer-events: none;
 }
